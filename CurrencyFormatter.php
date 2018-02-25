@@ -5,7 +5,7 @@ class CurrencyFormatter {
     {
         // supports upto 99,99,99,999
         if (strlen($number) > 9)
-            retrun $number;
+            return $number;
         
         $hundreds = $thousands = $lakhs = $crors = $negative = '';
         if(strstr($number,"-"))
