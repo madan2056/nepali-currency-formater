@@ -1,5 +1,5 @@
 <?php
-class CurrencyFormater {
+class CurrencyFormatter {
 
   public function formatToMoney($number, $is_unicode = false)
     {
