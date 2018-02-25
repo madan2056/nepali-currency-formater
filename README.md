@@ -1,4 +1,4 @@
-# Nepali Currency Formater
+# Nepali Currency Formater ( Basic )
 
 # For getting formated currency in english 
 ```php
